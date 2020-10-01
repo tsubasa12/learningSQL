@@ -1,4 +1,4 @@
--- 課題１
+-- 課題１11
 select  
 writer.name as writer_name
 , book.name as book_name
