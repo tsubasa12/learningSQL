@@ -1,3 +1,4 @@
+-- 課題6
 select 
     book.name as book_name
     -- , counter.popular
